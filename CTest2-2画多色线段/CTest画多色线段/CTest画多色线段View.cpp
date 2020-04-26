@@ -54,6 +54,7 @@ void CCTest画多色线段View::OnDraw(CDC* pDC)
 		return;
 
 	// TODO: 在此处为本机数据添加绘制代码+
+
 	int red = 0, green = 0, blue = 0;//都是零,那就是黑色
 	int width=2;//
 	int row=20;//行
